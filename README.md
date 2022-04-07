@@ -1,0 +1,1 @@
+AzureFunctionSQLServer_sn
